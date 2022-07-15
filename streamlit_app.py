@@ -1,11 +1,11 @@
 
-#import streamlit
+import streamlit
 
-#import pandas
+import pandas
 
-#import requests
+import requests
 
-#import snowflake.connector
+import snowflake.connector
 
 from urllib.error import URLError
 
